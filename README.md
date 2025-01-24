@@ -1,6 +1,7 @@
 # Youtube Unsubscriber Script
 
-- Access the link : `https://www.youtube.com/feed/channels`
+- Access the link: `https://www.youtube.com/feed/channels`
+- Scroll to the bottom of the page to populate all items on the screen.
 - Press **F12**
 - Insert the code below in your console
 
