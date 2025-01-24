@@ -38,7 +38,7 @@ function myTimer() {
             }
         }, 1000);
 
-        console.log(i + 1 + " unsubscribed by BIPPAN");
+        console.log(i + 1 + " unsubscribed by Assem");
         i++;
         setTimeout(myTimer, 3000);
     } else {
