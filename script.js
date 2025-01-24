@@ -23,7 +23,7 @@ function myTimer () {
     }
 
 
-    console.log(i + " unsubscribed by BIPPAN");
+    console.log(i + " unsubscribed by Assem");
     i++;
 
 }
@@ -79,7 +79,7 @@ function myTimer() {
             }
         }, 1000);
 
-        console.log(i + 1 + " unsubscribed by BIPPAN"); // Logging after the action for clarity.
+        console.log(i + 1 + " unsubscribed by Assem"); // Logging after the action for clarity.
         i++;
         setTimeout(myTimer, 3000); // Recursion inside timeout to wait for next click.
     } else {
